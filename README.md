@@ -1,1 +1,3 @@
-# ENVX1002_w9_lecture
+# About
+
+Lecture slides for ENVX1002 Week 9: Describing relationships
